@@ -7,4 +7,6 @@ _Testing..._
 _The program can kill the game when I try to lanch_  
 But then I realised the code in super while loop comsume lots of CPU, I look online for a solution for thing and turn out you need to set sleep time for while loop in order not to crash the program as it comsume CPU.  
 Now it works perfectly.  
-
+## Getting done
+Now i just need to turn the code into _exe_ file, and set it run on startup.  
+Because of limited time on this project, i don't make GUI for the program, but i put the source code above in case you want to use it. Just copy the code and change it as your need.
